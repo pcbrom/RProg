@@ -49,7 +49,7 @@ https://www.dropbox.com/s/3a94n0aml658h8x/resultado_sorteio.mp4?dl=1
 
 #### Instruções para os contemplados em todas as chamadas
 
-i. A coordenação do curso, devido a quantidade de inscritos, convoca todos para iniciarem as aulas na data prevista, 16/03/2018 sexta-feira, das 14:40 às 16:40 no IFB campus Estrutural, sala 07.
+i. A coordenação do curso, devido a quantidade de inscritos, convoca todos da primeira e segunda chamada para iniciarem as aulas na data prevista, 16/03/2018 sexta-feira, das 14:40 às 16:40 no IFB campus Estrutural, sala 07.
 
 ii. É necessário o uso de notebook. Usaremos uma sala de aula convencional com rede wifi.
 
