@@ -57,6 +57,7 @@ iii. Devem ser instalados previamente:
 
   * R [https://cloud.r-project.org/]
   * RStudio [https://www.rstudio.com/products/rstudio/download/#download]
+  * Telegram [https://desktop.telegram.org/]
 
 ### Curso de Introdução à Programação com R
 
