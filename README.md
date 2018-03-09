@@ -47,15 +47,16 @@ https://www.dropbox.com/s/3a94n0aml658h8x/resultado_sorteio.mp4?dl=1
 16. SYLVANA KARLA DA SILVA DE LEMOS SANTOS
 17. YURY WERLY ASSIS VIEIRA
 
-#### Instruções para os contemplados em primeira e segunda chamada
+#### Instruções para os contemplados em primeira e segunda chamadas
 
 i. A coordenação do curso, devido a quantidade de inscritos, convoca todos da primeira e segunda chamadas para iniciarem as aulas na data prevista, 16/03/2018 sexta-feira, das 14:40 às 16:40 no IFB campus Estrutural, sala 07.
 
 ii. É necessário o uso de notebook. Usaremos uma sala de aula convencional com rede wifi.
 
 iii. Devem ser instalados previamente:
-  > R [https://cloud.r-project.org/]
-  > RStudio [https://www.rstudio.com/products/rstudio/download/#download]
+
+  * R [https://cloud.r-project.org/]
+  * RStudio [https://www.rstudio.com/products/rstudio/download/#download]
 
 ### Curso de Introdução à Programação com R
 
